@@ -7,3 +7,5 @@ CSV_DIR=os.path.join(HOME,'data/input/')
 MODEL_DIR=os.path.join(HOME,'models')
 
 print('hhhhhhhh')
+
+aaaaa=1
