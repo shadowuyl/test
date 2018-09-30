@@ -7,6 +7,3 @@ CSV_DIR=os.path.join(HOME,'data/input/')
 MODEL_DIR=os.path.join(HOME,'models')
 
 print('hhhhhhhh')
-
-bbb=222
-aaaaa=1

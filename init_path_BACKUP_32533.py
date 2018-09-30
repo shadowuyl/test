@@ -8,5 +8,8 @@ MODEL_DIR=os.path.join(HOME,'models')
 
 print('hhhhhhhh')
 
+<<<<<<< HEAD
 bbb=222
+=======
 aaaaa=1
+>>>>>>> dev
